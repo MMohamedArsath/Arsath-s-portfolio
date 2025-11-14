@@ -1,0 +1,2 @@
+Place your resume PDF here named exactly "resume.pdf" to enable the download button on the home section.
+
